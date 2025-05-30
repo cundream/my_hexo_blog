@@ -19,7 +19,7 @@ Thumbs.db
 # idea #
 .idea
 *.iml
-
+node_modules
 # Package Files #
 *.jar
 *.war
